@@ -11,7 +11,7 @@
 
 ## GitHub Pages 发布
 
-将本目录内容放在 GitHub 仓库根目录，仓库设为公开；在仓库 **Settings → Pages** 中选择从 `main` 分支的根目录发布。发布后网址为 `https://<用户名>.github.io/<仓库名>/`。分支上的后续提交会触发页面更新。
+本项目已发布在公开仓库 [Samma-cloud/china-air-route-radar](https://github.com/Samma-cloud/china-air-route-radar)，网站地址为 <https://samma-cloud.github.io/china-air-route-radar/>。GitHub Pages 从 `main` 分支根目录发布；推送后会触发网站更新。
 
 ## 资讯记录格式
 
@@ -19,4 +19,4 @@
 
 ## 每日更新
 
-每日资讯任务会更新本地 `data.json`。线上 GitHub Pages 只有在变更推送到发布分支后才会刷新，因此需在仓库和 Git 登录配置完成后，将每日更新流程接入提交与推送。
+每日资讯任务每天北京时间 09:00 检查来源，并更新 `data.json`。本地 Git 已连接 `origin/main`，GitHub 登录已配置；有更新时提交并推送即可刷新网站。只发布有来源依据的变化；没有可靠依据时不添加记录。
