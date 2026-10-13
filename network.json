@@ -9,6 +9,34 @@
     "source": "https://www.caac.gov.cn/PHONE/XWZX/MHYW/202603/t20260329_230366.html",
     "sourceLabel": "中国民航局"
   },
+  "postalCapacity": {
+    "contractPeriod": "2026-04-01/2027-03-31",
+    "schedulePlans": 7664,
+    "dailyTons": 178.5,
+    "type": "非固定散舱舱位采购需求，不是航司固定班表或实际执飞航班",
+    "source": "https://www.chinapost.com.cn/cn/report/2512/12207-1.htm",
+    "sourceLabel": "中国邮政 2026 年国际邮件航空运能集中采购公告"
+  },
+  "caacCargoPermits": {
+    "season": "2026年夏秋航季",
+    "source": "https://www.caac.gov.cn/XXGK/XXGK/TZTG/202603/P020260323513975216641.pdf",
+    "sourceLabel": "中国民航局 2026 年夏秋航季换季国内航线经营许可换发情况表",
+    "note": "许可名单不等同于实际运营班表；本站覆盖状态只表示是否已收录可核验的公开班期。",
+    "carriers": [
+      { "name": "国货航", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "顺丰航空", "siteStatus": "已收录官网国际及地区班期；国内班期待补" },
+      { "name": "中国货运航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "中州航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "天津货运航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "长龙航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "金鹏航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "中国邮政航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "圆通货运航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "中原龙浩航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "南方航空", "siteStatus": "本站暂未收录可核验班期" },
+      { "name": "西北国际货运航空", "siteStatus": "本站暂未收录可核验班期" }
+    ]
+  },
   "source": "https://www.sf-airlines.com/flight/",
   "sourceLabel": "顺丰航空官方航班计划",
   "routes": [
