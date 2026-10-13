@@ -1,4 +1,114 @@
 {
-  "lastChecked": "",
-  "records": []
+  "lastChecked": "2026-10-13",
+  "records": [
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "德比（东米德兰）",
+      "region": "英国",
+      "airline": "顺丰航空",
+      "mode": "全货机（B747-400）",
+      "change": "2026-03-08开通鄂州至英国德比货运航线；顺丰航空自营货机执飞。公告未披露固定班期。",
+      "date": "2026-03-08",
+      "status": "开航公告已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-03-08",
+      "sources": [
+        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3663.html" }
+      ],
+      "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "重庆",
+      "dest": "仰光",
+      "region": "缅甸",
+      "airline": "顺丰航空",
+      "mode": "全货机（B767-300）",
+      "change": "首班于2026-01-28起飞，开通重庆—仰光定期货运航线；航司公告计划每周往返1班。",
+      "date": "2026-01-28",
+      "status": "开航公告已核实；当前班期待复核",
+      "airport": "重庆",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-02-25",
+      "sources": [
+        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3652.html" }
+      ],
+      "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "珠海",
+      "dest": "新德里",
+      "region": "印度",
+      "airline": "顺丰航空",
+      "mode": "全货机（B767-300）",
+      "change": "2025-11-13开通珠海—新德里定期货运航线；航司公告计划每周4班。",
+      "date": "2025-11-13",
+      "status": "开航公告已核实；当前班期待复核",
+      "airport": "珠海",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-11-13",
+      "sources": [
+        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3572.html" }
+      ],
+      "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "芝加哥",
+      "region": "美国",
+      "airline": "顺丰航空",
+      "mode": "全货机（B747-400）",
+      "change": "2025-10-11开通鄂州—芝加哥货运航线；开航公告计划每周1班。航司官网当前航班计划页仍列有该航线，页面班期标注为周二、周四；实际执飞及可销售舱位须再次向航司确认。",
+      "date": "2025-10-11",
+      "status": "开航已核实；官网计划页列出，实际执飞待确认",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-10-11",
+      "sources": [
+        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3306.html" },
+        { "label": "航司当前计划页", "url": "https://www.sf-airlines.com/flight/index.html" }
+      ],
+      "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "昆明",
+      "dest": "科伦坡",
+      "region": "斯里兰卡",
+      "airline": "顺丰航空",
+      "mode": "全货机（B757-200）",
+      "change": "2025-06-26开通昆明—科伦坡货运航线；航司公告计划每周2班。",
+      "date": "2025-06-26",
+      "status": "开航公告已核实；当前班期待复核",
+      "airport": "昆明",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-06-26",
+      "sources": [
+        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3110.html" }
+      ],
+      "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "纽约 → 哈利法克斯",
+      "region": "美国 / 加拿大",
+      "airline": "顺丰航空",
+      "mode": "全货机（B747-400）",
+      "change": "2025-05-25开通鄂州—纽约—哈利法克斯—鄂州三角航线，涉及第五航权；航司公告计划每周1至2班。",
+      "date": "2025-05-25",
+      "status": "开航公告已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-05-25",
+      "sources": [
+        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/474.html" }
+      ],
+      "mark": "SF"
+    }
+  ]
 }

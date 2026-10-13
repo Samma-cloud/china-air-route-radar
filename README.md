@@ -5,7 +5,7 @@
 ## 文件
 
 - `index.html`：页面和交互
-- `data.json`：已核实的航线变动记录，初始为空，不包含模拟资讯
+- `data.json`：有公开来源的航线变化记录；首批数据为历史开航事件，不代表当前仍在运营
 - `.nojekyll`：让 GitHub Pages 直接发布静态文件
 - `deploy.ps1`：CloudBase 的备用发布脚本
 
@@ -15,7 +15,7 @@
 
 ## 资讯记录格式
 
-在 `records` 数组中追加记录。每条记录至少应包含 `type`、`origin`、`dest`、`region`、`airline`、`mode`、`change`、`date`、`status`、`airport`、`discovered` 和 `url`。`url` 必须指向实际来源；没有可靠依据时不发布为已确认记录。
+在 `records` 数组中追加记录。每条记录至少应包含 `type`、`origin`、`dest`、`region`、`airline`、`mode`、`change`、`date`、`status`、`airport`、`discovered` 和 `sources`。`date` 是航线实际首班/开航日期，`discovered` 是该记录加入数据库的日期，`sourcePublished` 是来源发布日期；`sources` 中的链接应指向航司、机场或其他可靠来源。公告中计划的班期不能直接当作当前班期，状态应说明是否经过近期复核。
 
 ## 每日更新
 
