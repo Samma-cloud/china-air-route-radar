@@ -2,22 +2,422 @@
   "lastChecked": "2026-10-13",
   "records": [
     {
+      "type": "加密",
+      "origin": "武汉天河",
+      "dest": "曼谷素万那普",
+      "region": "泰国",
+      "airline": "京东航空",
+      "mode": "全货机（B737-800BCF）",
+      "change": "航司/政府公告计划2026年11–12月加密至每周5班（较1–10月每周3班）；具体生效日及执行待核实。",
+      "date": "2026-11",
+      "status": "未来班期计划，尚待执行核实",
+      "airport": "武汉",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-01-29",
+      "sources": [
+        {
+          "url": "https://sw.wuhan.gov.cn/xwdt/gzdt/202601/t20260129_2720539.shtml",
+          "label": "武汉市商务局"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
       "type": "新开",
+      "origin": "鄂州",
+      "dest": "芝加哥",
+      "region": "美国",
+      "airline": "西部环球航空（Western Global Airlines）",
+      "mode": "全货机（B747-400F）",
+      "change": "2026-10-01美国西部环球航空货机首飞鄂州—芝加哥；鄂州政府10月12日发布边检保障消息。",
+      "date": "2026-10-01",
+      "status": "首航已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-10-12",
+      "sources": [
+        {
+          "url": "https://www.ezhou.gov.cn/sy/bmdt/202610/t20261012_786144.html",
+          "label": "鄂州市政府 / 鄂州边检站"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "转定班",
+      "origin": "岳阳",
+      "dest": "河内",
+      "region": "越南",
+      "airline": "报道未披露（多家航司）",
+      "mode": "全货机",
+      "change": "自2026-09-03进入固定班期；岳阳至河内、达卡、曼谷三线合计计划每周15班，单线班次未披露。",
+      "date": "2026-09-03",
+      "status": "政府报道确认进入固定班期；航司与单线班次待核实",
+      "airport": "岳阳",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-09-10",
+      "sources": [
+        {
+          "url": "https://www.hunan.gov.cn/hnszf/hnyw/zwdt/202609/t20260910_34060668.html",
+          "label": "湖南省政府报道"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "转定班",
+      "origin": "岳阳",
+      "dest": "达卡",
+      "region": "孟加拉国",
+      "airline": "报道未披露（多家航司）",
+      "mode": "全货机",
+      "change": "自2026-09-03进入固定班期；岳阳至河内、达卡、曼谷三线合计计划每周15班，单线班次未披露。",
+      "date": "2026-09-03",
+      "status": "政府报道确认进入固定班期；航司与单线班次待核实",
+      "airport": "岳阳",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-09-10",
+      "sources": [
+        {
+          "url": "https://www.hunan.gov.cn/hnszf/hnyw/zwdt/202609/t20260910_34060668.html",
+          "label": "湖南省政府报道"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "转定班",
+      "origin": "岳阳",
+      "dest": "曼谷",
+      "region": "泰国",
+      "airline": "报道未披露（多家航司）",
+      "mode": "全货机",
+      "change": "自2026-09-03进入固定班期；岳阳至河内、达卡、曼谷三线合计计划每周15班，单线班次未披露。",
+      "date": "2026-09-03",
+      "status": "政府报道确认进入固定班期；航司与单线班次待核实",
+      "airport": "岳阳",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-09-10",
+      "sources": [
+        {
+          "url": "https://www.hunan.gov.cn/hnszf/hnyw/zwdt/202609/t20260910_34060668.html",
+          "label": "湖南省政府报道"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "乌鲁木齐",
+      "dest": "列日",
+      "region": "比利时",
+      "airline": "国货航",
+      "mode": "全货机（A330-200F）",
+      "change": "2026-09-03首班开通，国货航在乌鲁木齐开出首条全货机航线。",
+      "date": "2026-09-03",
+      "status": "首航已核实；当前班期待复核",
+      "airport": "乌鲁木齐",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-09-09",
+      "sources": [
+        {
+          "url": "https://www.airchinagroup.com/cnah/xwzx/zhxw/09/702893.shtml",
+          "label": "国货航开航公告"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "西安",
+      "dest": "杭州",
+      "region": "中国大陆（国内）",
+      "airline": "顺丰航空",
+      "mode": "全货机（B737-800）",
+      "change": "2026-08-25开通国内全货运航线，计划每周5班。",
+      "date": "2026-08-25",
+      "status": "开航与公告班期已核实；当前班期待复核",
+      "airport": "西安",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-08-28",
+      "sources": [
+        {
+          "url": "https://sn.spb.gov.cn/shanxsyzglj/c100057/c100071/202608/b397634d48cc436bb974be1a7b80e8cb.shtml",
+          "label": "陕西省邮政管理局"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "哈恩",
+      "region": "德国",
+      "airline": "中州航空",
+      "mode": "全货机（B777F）",
+      "change": "2026-05-17首航，计划每周2班，预计年运力超过1万吨。",
+      "date": "2026-05-17",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-05-18",
+      "sources": [
+        {
+          "url": "https://www.ezhou.gov.cn/zt/zdzt/hkcs/ywdt/202605/t20260518_764812.html",
+          "label": "鄂州市政府"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "布拉格",
+      "region": "捷克",
+      "airline": "中州航空",
+      "mode": "全货机",
+      "change": "2026-05-16首航，计划每周1班，单程约100吨。",
+      "date": "2026-05-16",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-05-18",
+      "sources": [
+        {
+          "url": "https://www.ezhou.gov.cn/zt/zdzt/hkcs/ywdt/202605/t20260518_764812.html",
+          "label": "鄂州市政府"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "郑州",
+      "dest": "塔什干 → 莱比锡/哈勒",
+      "region": "德国",
+      "airline": "中亚航空（C6）",
+      "mode": "全货机（B767-300F）",
+      "change": "2026-04-12首飞，经塔什干中转至莱比锡/哈勒，计划每周2班。",
+      "date": "2026-04-12",
+      "status": "首飞与公告班期已核实；当前班期待复核",
+      "airport": "郑州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-04-14",
+      "sources": [
+        {
+          "url": "https://m.zzhkgq.gov.cn/2026/04-14/3640014.html",
+          "label": "郑州航空港区政府 / 河南日报"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "郑州",
+      "dest": "迪拜",
+      "region": "阿联酋",
+      "airline": "阿联酋航空货运",
+      "mode": "全货机（B777）",
+      "change": "2026-04-07开通郑州直飞迪拜定期货运航线，计划每周3班（周二、周五、周日）。",
+      "date": "2026-04-07",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "郑州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-04-08",
+      "sources": [
+        {
+          "url": "https://www.zhengzhou.gov.cn/news7/9987138.jhtml",
+          "label": "郑州市政府 / 郑州日报"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "巴黎",
+      "region": "法国",
+      "airline": "顺丰航空",
+      "mode": "全货机（B747-400）",
+      "change": "2026-04-01开通鄂州直飞巴黎戴高乐货运航线。公告未披露固定班期。",
+      "date": "2026-04-01",
+      "status": "首航已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-04-07",
+      "sources": [
+        {
+          "url": "https://gd.spb.gov.cn/gjyzj/c100195/202604/060a2e57552c477d9fc9eb6540fcf2d4.shtml",
+          "label": "国家邮政局转载报道"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "运营调整",
       "origin": "鄂州",
       "dest": "德比（东米德兰）",
       "region": "英国",
       "airline": "顺丰航空",
       "mode": "全货机（B747-400）",
-      "change": "2026-03-08开通鄂州至英国德比货运航线；顺丰航空自营货机执飞。公告未披露固定班期。",
+      "change": "2026-03-08顺丰航空以自营B747-400执飞鄂州—德比。鄂州方面曾于2025-11-02报道同航线已由顺丰货机投入运营；本条按运营阶段/承运方式变化线索记录，不重复计作新航线。",
       "date": "2026-03-08",
-      "status": "开航公告已核实；当前班期待复核",
+      "status": "自营航班已公告；与2025年航线关系及当前班期待复核",
       "airport": "鄂州",
       "discovered": "2026-10-13",
       "sourcePublished": "2026-03-08",
       "sources": [
-        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3663.html" }
+        {
+          "label": "航司开航公告",
+          "url": "https://www.sf-airlines.com/news/3663.html"
+        }
       ],
-      "mark": "SF"
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "上海浦东",
+      "dest": "米兰马尔彭萨",
+      "region": "意大利",
+      "airline": "地中海航空货运（MSC Air Cargo）",
+      "mode": "全货机（B777F）",
+      "change": "2026-03-04开通浦东—米兰马尔彭萨定期货运航线，计划每周2班。",
+      "date": "2026-03-04",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "上海浦东",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-03-10",
+      "sources": [
+        {
+          "url": "https://www.shanghai.gov.cn/nw15343/20260311/cad5f45dc19d410989622fad6b8e9ab3.html",
+          "label": "浦东新区政府"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "加密",
+      "origin": "上海浦东",
+      "dest": "列日 → 马德里",
+      "region": "比利时 / 西班牙",
+      "airline": "国货航",
+      "mode": "全货机",
+      "change": "自2026-03-01起，上海—列日—马德里货运航线由每周2班加密至每周6班。",
+      "date": "2026-03-01",
+      "status": "加密幅度已核实；当前执行班次待复核",
+      "airport": "上海浦东",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-03-20",
+      "sources": [
+        {
+          "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260320/24b107e705d145f38d5c5afc9c7ab841.html",
+          "label": "上海市政府报道"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "郑州",
+      "dest": "塔林",
+      "region": "爱沙尼亚",
+      "airline": "中亚航空（C6）",
+      "mode": "全货机（B767-300F）",
+      "change": "2026-02-05首飞郑州—塔林跨境电商货运航线，计划每周2班。",
+      "date": "2026-02-05",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "郑州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-02-07",
+      "sources": [
+        {
+          "url": "https://www.zhengzhou.gov.cn/news1/9888083.jhtml",
+          "label": "郑州市政府 / 郑州日报"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "郑州",
+      "dest": "巴塞尔",
+      "region": "瑞士",
+      "airline": "中亚航空（C6）",
+      "mode": "全货机（B767-300F）",
+      "change": "2026-02-04首飞郑州—巴塞尔跨境电商货运航线，计划每周3班。",
+      "date": "2026-02-04",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "郑州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-02-07",
+      "sources": [
+        {
+          "url": "https://www.zhengzhou.gov.cn/news1/9888083.jhtml",
+          "label": "郑州市政府 / 郑州日报"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "马拉博",
+      "region": "赤道几内亚",
+      "airline": "承运航司未披露",
+      "mode": "全货机",
+      "change": "2026-01-30开通鄂州—马拉博国际货运航线；政府报道确认航线延伸至非洲中西部，班期及承运航司未披露。",
+      "date": "2026-01-30",
+      "status": "开通已由后续报道确认；航司与班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-02-07",
+      "sources": [
+        {
+          "url": "https://cjrb.cjn.cn/resfile/2026-02-07/1/B2026-02-07A0101.pdf",
+          "label": "湖北日报"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "利雅得",
+      "region": "沙特阿拉伯",
+      "airline": "中州航空",
+      "mode": "全货机（B777-200F）",
+      "change": "2026-01-29开通定期货运航线，计划每周4班，单班最大业载100吨。",
+      "date": "2026-01-29",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-01-31",
+      "sources": [
+        {
+          "url": "https://www.ezhou.gov.cn/zt/zdzt/hkcs/ywdt/202602/t20260202_749061.html",
+          "label": "鄂州市政府"
+        }
+      ],
+      "mark": "✦",
+      "important": true
     },
     {
       "type": "新开",
@@ -33,9 +433,100 @@
       "discovered": "2026-10-13",
       "sourcePublished": "2026-02-25",
       "sources": [
-        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3652.html" }
+        {
+          "label": "航司开航公告",
+          "url": "https://www.sf-airlines.com/news/3652.html"
+        }
       ],
       "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "武汉天河",
+      "dest": "曼谷素万那普",
+      "region": "泰国",
+      "airline": "京东航空",
+      "mode": "全货机（B737-800BCF）",
+      "change": "2026-01-27开通定期国际货运航线；2026年1–10月计划每周3班。",
+      "date": "2026-01-27",
+      "status": "开航已核实；当前计划班期按季节调整",
+      "airport": "武汉",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2026-01-29",
+      "sources": [
+        {
+          "url": "https://sw.wuhan.gov.cn/xwdt/gzdt/202601/t20260129_2720539.shtml",
+          "label": "武汉市商务局"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "南京禄口",
+      "dest": "吉隆坡",
+      "region": "马来西亚",
+      "airline": "Raya Airways",
+      "mode": "全货机（B767-200）",
+      "change": "2025-11-30开通南京—吉隆坡全货机航线。",
+      "date": "2025-11-30",
+      "status": "开航已核实；当前班期待复核",
+      "airport": "南京",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-12-02",
+      "sources": [
+        {
+          "url": "https://english.www.gov.cn/news/202512/02/content_WS692e9dbbc6d00ca5f9a07d80.html",
+          "label": "中国政府网 / 新华社"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "恢复",
+      "origin": "张家界",
+      "dest": "曼谷",
+      "region": "泰国 / 东南亚",
+      "airline": "嘉迈航空（K-Mile Air）",
+      "mode": "全货机（B737）",
+      "change": "2025-11-23恢复国际货机运行，此前因市场原因自2022年停航；返程计划承运跨境电商货物，具体后续境外航点与班期未披露。",
+      "date": "2025-11-23",
+      "status": "复航已核实；后续班期及境外航点待核实",
+      "airport": "张家界",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-11-27",
+      "sources": [
+        {
+          "url": "https://enghunan.gov.cn/hneng/News/Localnews/202511/t20251127_33856449.html",
+          "label": "湖南省政府报道"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "成都双流",
+      "dest": "格拉斯哥普雷斯蒂克",
+      "region": "英国",
+      "airline": "国货航",
+      "mode": "全货机（A330）",
+      "change": "2025-11-22首航，公告计划每周4班，连接成都双流与格拉斯哥普雷斯蒂克。",
+      "date": "2025-11-22",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "成都双流",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-11-24",
+      "sources": [
+        {
+          "url": "https://sc.people.com.cn/BIG5/n2/2025/1124/c345167-41420603.html",
+          "label": "人民网 / 成都日报"
+        }
+      ],
+      "mark": "",
+      "important": false
     },
     {
       "type": "新开",
@@ -51,9 +542,34 @@
       "discovered": "2026-10-13",
       "sourcePublished": "2025-11-13",
       "sources": [
-        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3572.html" }
+        {
+          "label": "航司开航公告",
+          "url": "https://www.sf-airlines.com/news/3572.html"
+        }
       ],
       "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "东米德兰",
+      "region": "英国",
+      "airline": "顺丰航空",
+      "mode": "全货机（B747）",
+      "change": "2025-11-02开通鄂州—东米德兰国际货运航线。该航线后续于2026年由顺丰航空自营运力执飞，需区分运营阶段。",
+      "date": "2025-11-02",
+      "status": "首航已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-11-05",
+      "sources": [
+        {
+          "url": "https://lkwlzx.ezhou.gov.cn/xwdt/lkxw/202511/t20251105_732517.html",
+          "label": "鄂州市政府临空物流中心"
+        }
+      ],
+      "mark": "",
+      "important": false
     },
     {
       "type": "新开",
@@ -69,10 +585,82 @@
       "discovered": "2026-10-13",
       "sourcePublished": "2025-10-11",
       "sources": [
-        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3306.html" },
-        { "label": "航司当前计划页", "url": "https://www.sf-airlines.com/flight/index.html" }
+        {
+          "label": "航司开航公告",
+          "url": "https://www.sf-airlines.com/news/3306.html"
+        },
+        {
+          "label": "航司当前计划页",
+          "url": "https://www.sf-airlines.com/flight/index.html"
+        }
       ],
       "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "乌鲁木齐",
+      "dest": "巴黎 → 马德里",
+      "region": "法国 / 西班牙",
+      "airline": "达飞航空货运（CMA CGM Air Cargo）",
+      "mode": "全货机（A330-200F）",
+      "change": "2025-07-27开通定期货运航线；报道计划每周4班（含经停巴黎至马德里航班及乌鲁木齐—巴黎班次）。",
+      "date": "2025-07-27",
+      "status": "首航与公告计划已核实；当前班期待复核",
+      "airport": "乌鲁木齐",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-08-07",
+      "sources": [
+        {
+          "url": "https://swt.xinjiang.gov.cn/xjswt/c114592/202508/dce8cc571e42495c9ac01c8a7f3ec271.shtml",
+          "label": "新疆自贸区 / 新疆商务厅"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "拉萨",
+      "region": "中国大陆（国内）",
+      "airline": "顺丰航空",
+      "mode": "全货机（B757-200）",
+      "change": "2025-07-10开通鄂州—拉萨货运航线，计划每周1班。",
+      "date": "2025-07-10",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-07-11",
+      "sources": [
+        {
+          "url": "https://www.ezhou.gov.cn/smpd/smgz/202507/t20250711_712896.html",
+          "label": "鄂州市政府"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "杭州萧山",
+      "dest": "塔什干",
+      "region": "乌兹别克斯坦",
+      "airline": "中亚航空（C6）",
+      "mode": "全货机（B767）",
+      "change": "2025-07-02首航，计划每周三、周日执飞。",
+      "date": "2025-07-02",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "杭州萧山",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-07-04",
+      "sources": [
+        {
+          "url": "https://www.zjairports.com/newNewsinfor.html?id=3155&type=2",
+          "label": "浙江省机场集团"
+        }
+      ],
+      "mark": "",
+      "important": false
     },
     {
       "type": "新开",
@@ -88,9 +676,78 @@
       "discovered": "2026-10-13",
       "sourcePublished": "2025-06-26",
       "sources": [
-        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/3110.html" }
+        {
+          "label": "航司开航公告",
+          "url": "https://www.sf-airlines.com/news/3110.html"
+        }
       ],
       "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "郑州",
+      "dest": "卢森堡",
+      "region": "卢森堡",
+      "airline": "中国邮政航空",
+      "mode": "全货机（机型未披露）",
+      "change": "2025-06-23开通国际货运航线，初期每周1班。",
+      "date": "2025-06-23",
+      "status": "首航与初期班期已核实；当前班期待复核",
+      "airport": "郑州",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-06-24",
+      "sources": [
+        {
+          "url": "https://english.www.gov.cn/news/202506/24/content_WS6859dfcac6d0868f4e8f38ea.html",
+          "label": "中国政府网 / 新华社"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "广州白云",
+      "dest": "北京 → 格拉斯哥",
+      "region": "英国",
+      "airline": "国货航",
+      "mode": "全货机（B777）",
+      "change": "2025-06-02开通广州—北京—格拉斯哥全货机航线，计划每周3班。",
+      "date": "2025-06-02",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "广州白云",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-06-11",
+      "sources": [
+        {
+          "url": "https://www.airchinagroup.com/cnah/xwzx/zhxw/06/655395.shtml",
+          "label": "中国航空集团"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "哈尔滨",
+      "dest": "青岛 → 南京",
+      "region": "中国大陆（国内）",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B737-800F）",
+      "change": "2025年6月开通哈尔滨—青岛—南京全货机航线，计划每周7班；报道未披露首班日。",
+      "date": "2025-06",
+      "status": "公开报道确认开通于2025年6月，具体首班日未披露；当前班期待复核",
+      "airport": "哈尔滨",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-06-13",
+      "sources": [
+        {
+          "url": "https://www.cah.com.cn/content/2025/06-13/7339090353133195264.html",
+          "label": "首都机场集团 / 黑龙江机场集团"
+        }
+      ],
+      "mark": "",
+      "important": false
     },
     {
       "type": "新开",
@@ -106,9 +763,166 @@
       "discovered": "2026-10-13",
       "sourcePublished": "2025-05-25",
       "sources": [
-        { "label": "航司开航公告", "url": "https://www.sf-airlines.com/news/474.html" }
+        {
+          "label": "航司开航公告",
+          "url": "https://www.sf-airlines.com/news/474.html"
+        }
       ],
       "mark": "SF"
+    },
+    {
+      "type": "新开",
+      "origin": "杭州萧山",
+      "dest": "东京",
+      "region": "日本",
+      "airline": "中国邮政航空",
+      "mode": "全货机",
+      "change": "2025-05-22开通杭州—东京全货机航线，计划每周3班。",
+      "date": "2025-05-22",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "杭州萧山",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-05-23",
+      "sources": [
+        {
+          "url": "https://www.zjairports.com/newNewsinfor.html?id=3130&type=2",
+          "label": "浙江省机场集团"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "贵阳龙洞堡",
+      "dest": "曼谷",
+      "region": "泰国",
+      "airline": "天津货运航空",
+      "mode": "全货机（B737-800）",
+      "change": "2025-04-02开通贵阳—曼谷国际货运航线，计划每周3班。",
+      "date": "2025-04-02",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "贵阳",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-04-03",
+      "sources": [
+        {
+          "url": "https://english.www.gov.cn/news/202504/03/content_WS67edc2d4c6d0868f4e8f166e.html",
+          "label": "中国政府网 / 新华社"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "恢复",
+      "origin": "无锡硕放",
+      "dest": "芝加哥",
+      "region": "美国",
+      "airline": "公开报道未披露",
+      "mode": "全货机包机",
+      "change": "2025-03-28恢复无锡—芝加哥货运航线，计划每周3班（周三、周五、周日）。",
+      "date": "2025-03-28",
+      "status": "复航与公告班期已核实；当前班期待复核",
+      "airport": "无锡硕放",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-04-01",
+      "sources": [
+        {
+          "url": "https://en.wuxi.gov.cn/2025-04/01/c_1083602.htm",
+          "label": "无锡市政府报道"
+        }
+      ],
+      "mark": "✦",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "广州白云",
+      "dest": "达卡",
+      "region": "孟加拉国",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B757-200F）",
+      "change": "2025-03-26开通国际货邮航线，初期每周2班。",
+      "date": "2025-03-26",
+      "status": "首航与初期班期已核实；当前班期待复核",
+      "airport": "广州白云",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-04-08",
+      "sources": [
+        {
+          "url": "https://www.chinapost.com.cn/html1/report/2505/709-1.htm",
+          "label": "中国邮政集团 / 中国民航网"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "广州白云",
+      "dest": "克拉克",
+      "region": "菲律宾",
+      "airline": "中国邮政航空",
+      "mode": "全货机",
+      "change": "2025-03-19开通广州—克拉克国际货邮航线。",
+      "date": "2025-03-19",
+      "status": "首航已核实；当前班期待复核",
+      "airport": "广州白云",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-03-31",
+      "sources": [
+        {
+          "url": "https://www.chinapost.com.cn/html1/report/25031/2013-1.htm",
+          "label": "中国邮政集团"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "泉州晋江",
+      "dest": "克拉克",
+      "region": "菲律宾",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B737-800F）",
+      "change": "2025-02-27开通国际货邮航线，计划每周4班（周二至周五）。",
+      "date": "2025-02-27",
+      "status": "首航与公告班期已核实；当前班期待复核",
+      "airport": "泉州晋江",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-02-27",
+      "sources": [
+        {
+          "url": "https://fj.spb.gov.cn/fjsyzglj/c103136/c103138/202502/c22a3c4a3ba94b02bd1d3a02a8311857.shtml",
+          "label": "福建省邮政管理局"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "乌鲁木齐",
+      "dest": "伊斯坦布尔",
+      "region": "土耳其",
+      "airline": "报道未披露",
+      "mode": "全货机",
+      "change": "2025-01-09开通国际货运航线，报道计划每周4班。",
+      "date": "2025-01-09",
+      "status": "开航与公告班期已核实；承运航司及当前班期待复核",
+      "airport": "乌鲁木齐",
+      "discovered": "2026-10-13",
+      "sourcePublished": "2025-01-09",
+      "sources": [
+        {
+          "url": "https://english.www.gov.cn/english.www.gov.cn/news/202501/09/content_WS677fce9bc6d0868f4e8eea59.html",
+          "label": "中国政府网 / 新华社"
+        }
+      ],
+      "mark": "",
+      "important": false
     }
   ]
 }
