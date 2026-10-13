@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-13",
+  "lastChecked": "2026-10-14",
   "records": [
     {
       "type": "加密",
@@ -919,6 +919,314 @@
         {
           "url": "https://english.www.gov.cn/english.www.gov.cn/news/202501/09/content_WS677fce9bc6d0868f4e8eea59.html",
           "label": "中国政府网 / 新华社"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "巴黎",
+      "region": "法国",
+      "airline": "中州航空（与纵腾集团联合运营）",
+      "mode": "全货机（B777F）",
+      "change": "2025-01-03鄂州—巴黎往返定期货运航线首航，初期每周1班，后期计划增至每周5班。",
+      "date": "2025-01-03",
+      "status": "首航及初期班期已核实；后续加密属计划，当前班期待复核",
+      "airport": "鄂州",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2025-01-04",
+      "sources": [
+        {
+          "url": "https://www.ezhou.gov.cn/zt/zdzt/hkcs/ywdt/202501/t20250106_682678.html",
+          "label": "鄂州市政府网"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "墨西哥城",
+      "region": "墨西哥",
+      "airline": "报道未披露",
+      "mode": "全货机",
+      "change": "花湖机场在2025-01-03至01-08期间开通鄂州—墨西哥城国际货运航线；具体首航日、班期及承运航司未披露。",
+      "date": "2025-01",
+      "status": "政府报道确认于1月3日至8日开通；具体日期、承运航司和班期未披露",
+      "airport": "鄂州",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2025-01-13",
+      "sources": [
+        {
+          "url": "https://hb.spb.gov.cn/hubsyzglj/c104797/c104800/202501/b138c5a32c204e06b43e791aeaefe35d.shtml",
+          "label": "湖北省邮政管理局"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "克拉克",
+      "region": "菲律宾",
+      "airline": "报道未披露",
+      "mode": "全货机",
+      "change": "花湖机场在2025-01-03至01-08期间开通鄂州—克拉克国际货运航线；具体首航日、班期及承运航司未披露。",
+      "date": "2025-01",
+      "status": "政府报道确认于1月3日至8日开通；具体日期、承运航司和班期未披露",
+      "airport": "鄂州",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2025-01-13",
+      "sources": [
+        {
+          "url": "https://hb.spb.gov.cn/hubsyzglj/c104797/c104800/202501/b138c5a32c204e06b43e791aeaefe35d.shtml",
+          "label": "湖北省邮政管理局"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "马斯特里赫特",
+      "region": "荷兰",
+      "airline": "报道未披露",
+      "mode": "全货机",
+      "change": "花湖机场在2025-01-03至01-08期间开通鄂州—马斯特里赫特国际货运航线；具体首航日、班期及承运航司未披露。",
+      "date": "2025-01",
+      "status": "政府报道确认于1月3日至8日开通；具体日期、承运航司和班期未披露",
+      "airport": "鄂州",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2025-01-13",
+      "sources": [
+        {
+          "url": "https://hb.spb.gov.cn/hubsyzglj/c104797/c104800/202501/b138c5a32c204e06b43e791aeaefe35d.shtml",
+          "label": "湖北省邮政管理局"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "第比利斯",
+      "region": "格鲁吉亚",
+      "airline": "报道未披露",
+      "mode": "全货机",
+      "change": "花湖机场在2025-01-03至01-08期间开通鄂州—第比利斯国际货运航线；具体首航日、班期及承运航司未披露。",
+      "date": "2025-01",
+      "status": "政府报道确认于1月3日至8日开通；具体日期、承运航司和班期未披露",
+      "airport": "鄂州",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2025-01-13",
+      "sources": [
+        {
+          "url": "https://hb.spb.gov.cn/hubsyzglj/c104797/c104800/202501/b138c5a32c204e06b43e791aeaefe35d.shtml",
+          "label": "湖北省邮政管理局"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "鄂州",
+      "dest": "博乐",
+      "region": "中国",
+      "airline": "湖北机场集团航空物流公司",
+      "mode": "全货机（B737-300）",
+      "change": "2025-03-30开通鄂州—博州货运航线，串联鄂州花湖与新疆博乐阿拉山口机场；公告未披露固定周班频次。",
+      "date": "2025-03-30",
+      "status": "首航已核实；固定班期未披露",
+      "airport": "鄂州",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2025-03-30",
+      "sources": [
+        {
+          "url": "https://lkjjq.ezhou.gov.cn/lkzx/lkdt/202503/t20250330_695496.shtml",
+          "label": "鄂州市临空经济区"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "广州白云",
+      "dest": "奥克兰 → 悉尼",
+      "region": "新西兰 / 澳大利亚",
+      "airline": "中国南方航空物流",
+      "mode": "全货机（B777F）",
+      "change": "2025-07-04开通广州—奥克兰—悉尼定期货运航线；中国大陆航司首条直达新西兰的定期全货机航线，并含澳新间第五航权运输。",
+      "date": "2025-07-04",
+      "status": "首航已核实；来源未披露周班频次",
+      "airport": "广州白云",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2025-07-10",
+      "sources": [
+        {
+          "url": "https://sw.gz.gov.cn/swzx/dwmy/content/post_10349687.html",
+          "label": "广州市商务局"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "上海浦东",
+      "dest": "巴黎戴高乐",
+      "region": "法国",
+      "airline": "中国货运航空（中货航）",
+      "mode": "全货机",
+      "change": "2025-11-20开通上海浦东—巴黎直达货运航线。",
+      "date": "2025-11-20",
+      "status": "首航已核实；当前班期待复核",
+      "airport": "上海浦东",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2025-11-24",
+      "sources": [
+        {
+          "url": "https://english.shanghai.gov.cn/en-Latest-WhatsNew/20251124/e125b81e6ea94c56b1e72128b4c46c27.html",
+          "label": "上海市政府英文网"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "福州长乐",
+      "dest": "吉隆坡",
+      "region": "马来西亚",
+      "airline": "报道未披露",
+      "mode": "全货机（B737-800）",
+      "change": "2026-01-13开通福州—吉隆坡首条全货机航线；报道未披露固定班期和承运航司。",
+      "date": "2026-01-13",
+      "status": "开航已核实；承运航司与固定班期未披露",
+      "airport": "福州长乐",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2026-01-14",
+      "sources": [
+        {
+          "url": "https://www.fujian.gov.cn/xwdt/tpxx/202601/t20260114_7074430.htm",
+          "label": "福建省政府 / 福建日报"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "南京禄口",
+      "dest": "克拉克",
+      "region": "菲律宾",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B737-800）",
+      "change": "2026-04-10开通南京—克拉克国际货邮航线，为南京首条直达菲律宾的全货机航线。",
+      "date": "2026-04-10",
+      "status": "首航已核实；当前班期待复核",
+      "airport": "南京禄口",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2026-04-13",
+      "sources": [
+        {
+          "url": "https://www.chinapost.com.cn/cn/report/2604/4069-1.html",
+          "label": "中国邮政集团"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "湛江吴川",
+      "dest": "南京禄口",
+      "region": "中国",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B737-800F）",
+      "change": "2026-05-15开通湛江—南京货运航线；报道称其为粤西首条每日一班货运航线，荔枝旺季阶段机型可调整为B757。",
+      "date": "2026-05-15",
+      "status": "开航和日班计划已核实；季节性机型安排有时段限制",
+      "airport": "湛江吴川",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2026-05-20",
+      "sources": [
+        {
+          "url": "https://www.chinapost.com.cn/cn/report/2605/6344-1.html",
+          "label": "中国邮政集团"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "台州路桥",
+      "dest": "南京禄口",
+      "region": "中国",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B737-800）",
+      "change": "2026-06-10开通台州—南京杨梅航空专线；杨梅丰果期每日1班，每周7班，属于季节性专线。",
+      "date": "2026-06-10",
+      "status": "季节性开航已核实；丰果期结束后的执行情况需复核",
+      "airport": "台州路桥",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2026-06-15",
+      "sources": [
+        {
+          "url": "https://www.chinapost.com.cn/cn/report/2606/4843-1.htm",
+          "label": "中国邮政集团"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "广州白云",
+      "dest": "曼谷",
+      "region": "泰国",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B737-800F）",
+      "change": "2026-06-30开通广州—曼谷国际货运航线，每周二、四、六各1班，往返可实现当日运行。",
+      "date": "2026-06-30",
+      "status": "开航与公告班期已核实；当前执行待复核",
+      "airport": "广州白云",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2026-07-02",
+      "sources": [
+        {
+          "url": "https://www.chinapost.com.cn/cn/report/2607/0701-1.html",
+          "label": "中国邮政集团"
+        }
+      ],
+      "mark": "",
+      "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "成都",
+      "dest": "仰光",
+      "region": "缅甸",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B757-200）",
+      "change": "2026-07-07开通成都—仰光国际货运航线，可当日往返；来源未披露每周班次。",
+      "date": "2026-07-07",
+      "status": "首航已核实；固定班期未披露",
+      "airport": "成都",
+      "discovered": "2026-10-14",
+      "sourcePublished": "2026-07-13",
+      "sources": [
+        {
+          "url": "https://www.chinapost.com.cn/cn/report/2607/3401-1.html",
+          "label": "中国邮政集团"
         }
       ],
       "mark": "",
