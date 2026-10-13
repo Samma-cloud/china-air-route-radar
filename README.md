@@ -15,7 +15,7 @@
 
 ## 资讯记录格式
 
-在 `records` 数组中追加记录。每条记录至少应包含 `type`、`origin`、`dest`、`region`、`airline`、`mode`、`change`、`date`、`status`、`airport`、`discovered` 和 `sources`。`date` 是航线实际首班/开航日期，`discovered` 是该记录加入数据库的日期，`sourcePublished` 是来源发布日期；`sources` 中的链接应指向航司、机场或其他可靠来源。公告中计划的班期不能直接当作当前班期，状态应说明是否经过近期复核。
+在 `records` 数组中追加记录。每条记录至少应包含 `type`、`origin`、`dest`、`region`、`airline`、`mode`、`change`、`date`、`status`、`airport`、`discovered` 和 `sources`。`date` 是航线实际首班/开航日期，`discovered` 是该记录加入数据库的日期，`sourcePublished` 是来源发布日期；`sources` 中的链接应指向航司、机场、政府或其他可靠来源。民航局/地区管理局、航司、机场及地方政府公告作为主要事实依据；飞常准（VariFlight，<https://www.variflight.com/cn/home>）和 Flightradar24（<https://www.flightradar24.com/data/>）可用于发现航班、航线和历史运行线索并交叉核验。单次航班动态/航迹不能单独证明开航、减班、停飞或取消；频次变化需核对可比时段样本并注明限制。仅使用公开可访问或已获授权的数据，不绕过登录或订阅限制。公告中计划的班期不能直接当作当前班期，状态应说明是否经过近期复核。
 
 ## 每日更新
 
