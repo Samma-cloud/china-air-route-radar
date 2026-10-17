@@ -1235,6 +1235,89 @@
       ],
       "mark": "",
       "important": false
+    },
+    {
+      "type": "新开",
+      "origin": "嘉兴",
+      "dest": "芝加哥",
+      "region": "美国",
+      "airline": "金鹏航空",
+      "mode": "全货机（B747）",
+      "change": "2026-09-22首航；嘉兴机场官方来源确认B747全货机载货飞往芝加哥，浙江省政府英文门户报道确认由金鹏航空执飞。公开来源未披露固定周班频次。",
+      "date": "2026-09-22",
+      "status": "首航及承运航司已由机场和地方政府来源交叉确认；固定班期未披露",
+      "airport": "嘉兴",
+      "discovered": "2026-10-17",
+      "sourcePublished": "2026-09-23",
+      "sources": [
+        {
+          "url": "https://zjairports.com/newNewsinfor.html?id=3449&type=2",
+          "label": "浙江省机场集团"
+        },
+        {
+          "url": "https://www.ezhejiang.gov.cn/jiaxing/2026-09/23/c_1215688.htm",
+          "label": "浙江省政府英文门户（China Daily）"
+        }
+      ],
+      "mark": "金",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "嘉兴",
+      "dest": "卢森堡",
+      "region": "卢森堡",
+      "airline": "中国邮政航空",
+      "mode": "全货机（B777F）",
+      "change": "2026-09-21首航并投入运营。中国邮政及机场来源确认该航线开通；公开报道对初期计划频次分别提及每周1班和2班，故此处不将频次列为已确认班期。",
+      "date": "2026-09-21",
+      "status": "首航已由机场及邮政来源确认；计划频次公开报道不一致，待班期核实",
+      "airport": "嘉兴",
+      "discovered": "2026-10-17",
+      "sourcePublished": "2026-09-23",
+      "sources": [
+        {
+          "url": "https://zjairports.com/newNewsinfor.html?id=3449&type=2",
+          "label": "浙江省机场集团"
+        },
+        {
+          "url": "https://www.spb.gov.cn/gjyzj/c100195/202609/991e5efe66f0432c99d92be671c9231d.shtml",
+          "label": "国家邮政局 / 中国邮政快递报"
+        },
+        {
+          "url": "https://www.xinhuanet.com/20260921/9ac8d05030954486b54ec75fb5b6544e/c.html",
+          "label": "新华社（初期计划每周2班）"
+        },
+        {
+          "url": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisqriy5777147.shtml",
+          "label": "中国民航报 / 中国民航网（报道初期每周1班）"
+        }
+      ],
+      "mark": "邮",
+      "important": true
+    },
+    {
+      "type": "新开",
+      "origin": "岳阳",
+      "dest": "吉隆坡",
+      "region": "马来西亚",
+      "airline": "境外航司（机场未披露名称）",
+      "mode": "全货机（机型未披露）",
+      "change": "岳阳机场官方报道确认2026-09-24首条由境外航司执飞的岳阳—吉隆坡货运航线启航；报道未披露航司名称、机型及固定班期。",
+      "date": "2026-09-24",
+      "status": "机场官方确认航线启航；航司、机型及固定班期未披露",
+      "airport": "岳阳",
+      "discovered": "2026-10-17",
+      "sourcePublished": "2026-09-29",
+      "sources": [
+        {
+          "url": "https://www.hunanairport.cn/content/646043/63/16327775.html",
+          "label": "湖南机场集团"
+        }
+      ],
+      "mark": "✈",
+      "important": true
     }
   ]
 }
+
