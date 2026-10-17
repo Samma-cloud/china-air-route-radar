@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-14",
+  "lastChecked": "2026-10-17",
   "records": [
     {
       "type": "加密",
@@ -30,16 +30,20 @@
       "region": "美国",
       "airline": "西部环球航空（Western Global Airlines）",
       "mode": "全货机（B747-400F）",
-      "change": "2026-10-01美国西部环球航空货机首飞鄂州—芝加哥；鄂州政府10月12日发布边检保障消息。",
+      "change": "2026-10-01美国西部环球航空B747-400F首飞鄂州—芝加哥，计划每周1班；鄂州机场10月15日补充确认该航司定期全货机航班串联洛杉矶、鄂州与芝加哥奥黑尔，10月14日已观测到洛杉矶来机。该扩展航段班期未单独披露。",
       "date": "2026-10-01",
-      "status": "首航已核实；当前班期待复核",
+      "status": "鄂州—芝加哥首航及周班计划已核实；洛杉矶航段有官方运行确认，单独班期未披露",
       "airport": "鄂州",
-      "discovered": "2026-10-13",
-      "sourcePublished": "2026-10-12",
+      "discovered": "2026-10-17",
+      "sourcePublished": "2026-10-15",
       "sources": [
         {
           "url": "https://www.ezhou.gov.cn/sy/bmdt/202610/t20261012_786144.html",
           "label": "鄂州市政府 / 鄂州边检站"
+        },
+        {
+          "url": "https://lkjjq.ezhou.gov.cn/lkzx/lkdt/202610/t20261015_787397.shtml",
+          "label": "鄂州花湖国际机场 / 鄂州市临空经济区"
         }
       ],
       "mark": "✦",
